@@ -4,7 +4,7 @@ import com.google.gson.JsonArray;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class FaturamentoMensal {
+public class Main {
     public static <JsonObject> void main(String[] args) {
         try {
             Gson gson = new Gson();
